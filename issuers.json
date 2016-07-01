@@ -1,0 +1,254 @@
+[
+  {
+   "name":"Academia Brasileira de Neurocirurgia",
+   "acronym":"ABNC"
+  }, 
+  {
+    "name":"Coordenação Geral de Polícia de Imigração da Polícia Federal",
+    "acronym":"CGPI/DUREX/DPF"
+  },
+  {
+    "name":"Coordenação-Geral de Privilégios e Imunidades",
+    "acronym":"CGPI"
+  },
+  {
+    "name":"Coordenadoria Geral de Polícia Marítima, Aeronáutica e de Fronteiras",
+    "acronym":"CGPMAF"
+  },
+  { 
+    "name": "Conselho Nacional de Imigração",
+    "acronym":"CNIG"
+  },
+  {
+    "name":"Carteira Nacional de Habilitação",
+    "acronym":"CNT"
+  },
+  {
+    "name": "Conselho Regional de Enfermagem",
+    "acronym":"COREN"
+  },
+  {
+    "name": "Conselho Regional de Economia",
+    "acronym":"CORECON"
+  },
+  {
+    "name":"Conselho Regional de Administração",
+    "acronym":"CRA"
+  },
+  {
+    "name":"Conselho Regional de Assistentes Sociais",
+    "acronym":"CRAS"
+  },
+  {
+    "name":"Conselho Regional de Biblioteconomia",
+    "acronym":"CRB"
+  },
+  {
+    "name":"Conselho Regional de Contabilidade",
+    "acronym":"CRC"
+  },
+  {
+    "name":"Conselho Regional de Estatística",
+    "acronym":"CRE"
+  },
+  {
+    "name":"Conselho Regional de Engenharia e Agronomia",
+    "acronym":"CREA"
+  },
+  {
+    "name":"Conselho Regional de Corretores de Imóveis",
+    "acronym":"CRECI"
+  },
+  {
+    "name":"Conselho Regional de Fisioterapia e Terapia Ocupacional",
+    "acronym":"CREFIT"
+  },
+  {
+    "name":"Conselho Regional de Farmácia",
+    "acronym":"CRF"
+  },
+  {
+    "name":"Conselho Regional de Medicina",
+    "acronym":"CRM"
+  },
+  {
+    "name":"Conselho Regional de Nutrição",
+    "acronym":"CRN"
+  },
+  {
+    "name":"Conselho Regional de Odontologia",
+    "acronym":"CRO"
+  },
+  {
+    "name":"Conselho Regional de Psicologia",
+    "acronym":"CRP"
+  },
+  {
+    "name":"Conselho Regional de Profissionais de Relações Públicas",
+    "acronym":"CRPRE"
+  },
+  {
+    "name":"Conselho Regional de Química",
+    "acronym":"CRQ"
+  },
+  {
+    "name":"Conselho Regional de Representantes Comerciais",
+    "acronym":"CRRC"
+  },
+  {
+    "name":"Conselho Regional de Medicina Veterinária",
+    "acronym":"CRMV"
+  },
+  {
+    "name":"Carteira Sede Carpina de Pernambuco",
+    "acronym":"CSC"
+  },
+  {
+    "name":"Carteira de Trabalho e Previdência Social",
+    "acronym":"CTPS"
+  },
+  {
+    "name":"Diretoria de Identificação Civil",
+    "acronym":"DIC"
+  },
+  {
+    "name":"Diretoria-Executiva",
+    "acronym":"DIREX"
+  },
+  {
+    "name":"Departamento de Polícia Técnica Geral",
+    "acronym":"DPT"
+  },
+  {
+    "name":"Programa Municipal DST/Aids",
+    "acronym":"DST"
+  },
+  {
+    "name":"Fundo de Garantia do Tempo de Serviço",
+    "acronym":"FGTS"
+  },
+  {
+    "name":"Fundação Instituto de Pesquisas Econômicas",
+    "acronym":"FIPE"
+  },
+  {
+    "name":"Fundação Lyndolpho Silva",
+    "acronym":"FLS"
+  },
+  {
+    "name":"Governo do Estado de Goiás",
+    "acronym":"GOVGO"
+  },
+  {
+    "name":"Carteira de Identidade Classista",
+    "acronym":"I CLA"
+  },
+  {
+    "name":"Instituto Félix Pacheco",
+    "acronym":"IFP"
+  },
+  {
+    "name":"Instituto Geral de Perícias",
+    "acronym":"IGP"
+  },
+  {
+    "name":"Instituto de Identificação Civil e Criminal Engrácia da Costa Francisco de Rondônia",
+    "acronym":"IICCECF/RO"
+  },
+  {
+    "name":"Inter-institutional Monitoring Group",
+    "acronym":"IIMG"
+  },
+  {
+    "name":"Instituto Médico-Legal",
+    "acronym":"IML"
+  },
+  {
+    "name":"Índice de Preços ao Consumidor",
+    "acronym":"IPC"
+  },
+  {
+    "name":"Instituto Pereira Faustino",
+    "acronym":"IPF"
+  },
+  {
+    "name":"Ministério da Aeronáutica",
+    "acronym":"MAE"
+  },
+  {
+    "name":"Ministério do Exército",
+    "acronym":"MEX"
+  },
+  {
+    "name":"Ministério da Marinha",
+    "acronym":"MMA"
+  },
+  {
+    "name":"Ordem dos Advogados do Brasil",
+    "acronym":"OAB"
+  },
+  {
+    "name":"Ordens dos Músicos do Brasil",
+    "acronym":"OMB"
+  },
+  {
+    "name":"Policia Civil do Estado de Minas Gerais",
+    "acronym":"PCMG"
+  },
+  {
+    "name":"Polícia Militar do Estado de Minas Gerais",
+    "acronym":"PMMG"
+  },
+  {
+    "name":"Polícia Militar do Estado de Minas Gerais",
+    "acronym":"POF/DPF"
+  },
+  {
+    "name":"Polícia Militar",
+    "acronym":"POM"
+  },
+  {
+    "name":"Secretaria de Defesa Social (Pernambuco)",
+    "acronym":"SDS"
+  },
+  {
+    "name":"Secretaria Nacional de Justiça / Departamento de Estrangeiros",
+    "acronym":"SNJ"
+  },
+  {
+    "name":"Secretaria de Estado da Casa Civil",
+    "acronym":"SECC"
+  },
+  {
+    "name":"Secretaria de Estado de Justiça e Segurança Pública – Mato Grosso",
+    "acronym":"SEJUSP"
+  },
+  {
+    "name":"Carteira de Estrangeiro",
+    "acronym":"SES/EST"
+  },
+  {
+    "name":"Secretaria de Estado da Segurança Pública do Paraná",
+    "acronym":"SESP"
+  },
+  {
+    "name":"Secretaria da Justiça e Segurança",
+    "acronym":"SJS"
+  },
+  {
+    "name":"Secretaria da Justiça do Trabalho e Cidadania",
+    "acronym":"SJTC"
+  },
+  {
+    "name":"Secretaria da Justiça do Trabalho e Segurança",
+    "acronym":"SJTS"
+  },
+  {
+    "name":"Secretaria de Polícia Técnico-Científica",
+    "acronym":"SPTC"
+  },
+  {
+    "name":"Secretaria de Segurança Pública",
+    "acronym":"SSP"
+  }
+]
