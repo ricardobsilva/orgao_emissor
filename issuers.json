@@ -250,5 +250,13 @@
   {
     "name":"Secretaria de Segurança Pública",
     "acronym":"SSP"
+  },
+  {
+    "name":"Receita Federal",
+    "acronym":"RFB"
+  },
+  {
+    "name":"Departamento de Trânsito",
+    "acronym":"DETRAN"
   }
 ]
